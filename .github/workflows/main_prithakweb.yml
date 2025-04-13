@@ -55,4 +55,4 @@ jobs:
           app-name: 'prithakweb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2494A4D4B0F4F81A348A8BD33B13377 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20830C59FD324DE789EFC7DA64319E3D }}
