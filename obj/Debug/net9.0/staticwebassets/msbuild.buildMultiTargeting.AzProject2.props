@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzProject2.props" />
+</Project>
